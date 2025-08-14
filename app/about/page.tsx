@@ -577,7 +577,7 @@ function AboutPage() {
                         <h3 className="text-xl font-medium text-zinc-200">Travel & Exploration</h3>
                       </div>
                       <p className="text-zinc-400 text-base leading-relaxed transition-all duration-300 hover:text-zinc-200">
-                        A self-proclaimed sneakerhead, I have a deep appreciation for sneaker culture and streetwear fashion.
+                        Passionate about travel and exploration, seeking new cultures, landscapes, and experiences to inspire creativity and broaden perspectives.
                       </p>
                     </Card>
                   </div>
